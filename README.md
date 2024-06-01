@@ -32,9 +32,15 @@ Or
 
 ## Things to Try
   Integrate Recurrent Neural Networks (RNNs) to improve temporal modeling.
+  
   Compress the graph, iterate through the latent representation, and decompress when needed.
+  
   Develop a framework for inverse problems, such as automatically estimating the diffusion coefficient 𝐷
 
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contacts
   If you have any questions or suggestions, feel free to contact me on LinkedIn (Yuri Paglierani)
 
 ## Visualization
@@ -48,11 +54,11 @@ Below is an example of the Stanford Bunny mesh before and after applying the dif
 
 ## Reference
 
-This work was inspired by consulting different books, and courses, like:
+This work was inspired after consulting different books, and courses, like:
 - N. Thuerey et. Al. (2022) Physics-Based Deep Learning
 - A. Ansuini (2022) Deep Learning, University of Trieste
 - M. Labonne. (2023). Hands-On Graph Neural Networks Using Python. Packt
 - Jure Leskovec. (2021). Machine Learning with Graphs. Stanford University
 - Walter A. Strauss (2008). Partial Differential Equations: An Introduction
-
+- Michael M. Bronstein  (2021). Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges.
   
