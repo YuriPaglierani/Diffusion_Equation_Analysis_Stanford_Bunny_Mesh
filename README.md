@@ -44,6 +44,6 @@ Below is an example of the Stanford Bunny mesh before and after applying the dif
 <div align="center">
   <img src="images/bunny_init.png" alt="Initial Bunny Mesh" width="300"/>
   <img src="images/arrow_image.png" alt="Arrow" width="50"/>
-  <img src="image/bunny_finish.png" alt="Diffused Bunny Mesh" width="300"/>
+  <img src="images/bunny_finish.png" alt="Diffused Bunny Mesh" width="300"/>
 </div>
   
