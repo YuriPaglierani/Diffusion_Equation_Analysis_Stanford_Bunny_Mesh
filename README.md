@@ -43,7 +43,16 @@ Below is an example of the Stanford Bunny mesh before and after applying the dif
 
 <div align="center">
   <img src="images/bunny_init.png" alt="Initial Bunny Mesh" width="300"/>
-  <img src="images/arrow_image.png" alt="Arrow" width="50"/>
   <img src="images/bunny_finish.png" alt="Diffused Bunny Mesh" width="300"/>
 </div>
+
+## Reference
+
+This work was inspired by consulting different books, and courses, like:
+- N. Thuerey et. Al. (2022) Physics-Based Deep Learning
+- A. Ansuini (2022) Deep Learning, University of Trieste
+- M. Labonne. (2023). Hands-On Graph Neural Networks Using Python. Packt
+- Jure Leskovec. (2021). Machine Learning with Graphs. Stanford University
+- Walter A. Strauss (2008). Partial Differential Equations: An Introduction
+
   
